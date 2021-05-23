@@ -1,6 +1,6 @@
 ---
 title: "kmeanss3: An R Package for K-Means Clustering"
-author: "Friedrich Jaime Vogt, 4856443"
+author: "pao94"
 abstract: 
 date: "02.04.2019"
 fontsize: 12
