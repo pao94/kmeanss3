@@ -1,5 +1,5 @@
 # kmeanss3
-k-means clustering package from scratch in R.
+k-means clustering package from scratch developed in R.
 
 ## Installation
 Install package from Github with:
