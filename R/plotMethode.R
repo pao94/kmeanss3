@@ -52,7 +52,3 @@ plot.myMeans <- function(x, ...){
          title = "centers")
   }
 }
-
-
-
-
