@@ -158,7 +158,7 @@ used. Jain (2010) summarizes the procedure of Lloyd's algorithm in four steps:
 3. Recalculate the centers.
 4. Repeat 2. and 3. until clusters do not change.
 
-# Developement 
+# Development 
 In this section the development approach and implementation of **kmeanss3** is discussed.
 
 ## Approach
