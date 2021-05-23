@@ -15,5 +15,8 @@ Initiate k-means with 4 clusters and print results of clustering
 ```
 kMeans <- myMeans(data[1:2], 4)
 ```
-
-
+Plot results
+```
+plot(kMeans)
+```
+![image](.\man\figs\plot.png)
