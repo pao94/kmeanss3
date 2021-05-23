@@ -19,4 +19,4 @@ Plot results
 ```
 plot(kMeans)
 ```
-![image](.\man\figs\plot.png)
+![image](https://github.com/pao94/kmeanss3/tree/master/man/figs/plot.PNG)
