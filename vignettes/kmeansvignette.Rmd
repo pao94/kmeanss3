@@ -276,7 +276,7 @@ is commonly used for pattern recognition and is well suited for cluster
 analysis. After obtaining the dataset it is loaded into the environment.
 ```{r loadIris}
 # loading the data
-irisData <- read.csv("/Users/friedrichvogt/Desktop/Uni/Master/R-Seminar/iris.csv")
+irisData <- read.csv("/Desktop/Uni/Master/R-Seminar/iris.csv")
 ```
 
 The structure of the dataset is as follows:
