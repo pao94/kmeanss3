@@ -1,5 +1,5 @@
 # kmeanss3
-k-means clustering package from scratch in R.
+k-means clustering package from scratch developed in R.
 
 ## Installation
 Install package from Github with:
@@ -11,7 +11,7 @@ Begin by loading some data
 ```
 data <- read.csv("iris.csv")
 ```
-Initiate k-means with 4 clusters and print results of clustering
+Initiate k-means with 4 clusters
 ```
 kMeans <- myMeans(data[1:2], 4)
 ```
