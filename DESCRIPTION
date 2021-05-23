@@ -2,8 +2,8 @@ Package: kmeanss3
 Type: Package
 Title: k-means clustering
 Version: 1.0
-Author: Friedrich Vogt <friedvogt@gmail.com>
-Maintainer: Friedrich Vogt <friedvogt@gmail.com>
+Author: pao94 <pao94@gmail.com>
+Maintainer: pao94 <pao94@gmail.com>
 Description: This package contains an implementation of the k-means algorithm.
 License: GPL-3
 Encoding: UTF-8
